@@ -1,0 +1,2 @@
+C:\Users\edwin\source\repos\Elevator\Elevator\obj\Debug\Elevator.csprojAssemblyReference.cache
+C:\Users\edwin\source\repos\Elevator\Elevator\obj\Debug\Elevator.csproj.CoreCompileInputs.cache
